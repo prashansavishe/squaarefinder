@@ -1,0 +1,7 @@
+
+            *{font-size:40px;}
+            body{ background-color:aqua;}
+            .nav{background-color: blue;}
+            .nav a{color:white; text-decoration: none; margin:100px;}
+            h2{border:solid; width:70%; border-radius:30px;}
+        
